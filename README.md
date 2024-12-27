@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Nokuthula-prog
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning coding in python as well as CS50
-- 💞️ I’m looking to collaborate on ...
 - 📫nokuthulazulu204@gmail.com
 
 <!---
